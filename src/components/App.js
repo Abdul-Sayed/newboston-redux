@@ -1,6 +1,6 @@
 import React from 'react';
-import UserList from './containers/UserList';
-import UserDetail from './containers/UserDetail'
+import UserList from './UserList';
+import UserDetail from './UserDetail'
 import './App.css';
 
 

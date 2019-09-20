@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import uuid from "uuid";
-import { selectUser } from "../../actions/userAction";
+import { selectUser } from "../actions/userAction";
 
 class UserList extends Component {
   createListItems = () => {
